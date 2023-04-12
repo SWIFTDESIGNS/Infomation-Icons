@@ -1,0 +1,111 @@
+/*color of every text. */
+* {
+	color: rgb(255, 255, 255);
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+/* This css centers at the middle of the screen */
+#icons {
+	text-shadow: 2px 2px 5px #424242;
+    position: absolute;
+    color: rgb(161, 4, 4);
+    margin-top: 20px;
+    left: 80%;
+    transform: translate(-50%,-50%);
+    font-size: 45px;
+	text-align: center;
+	background-color: #27272700;
+    height: 27px;
+    width: 510px;
+}
+
+
+.discord {
+    margin-top: 0px;
+    margin-left: 45px;
+    background-color: #2e2e2ebe;
+    border-radius: 10px;
+    width:115px;
+    height: 25px;
+}
+
+.discord:hover {
+    transform: scale(1.1);
+    cursor: pointer;
+}
+
+.sonoran {
+    margin-top: -25px;
+    margin-left: 189px;
+    background-color: #2e2e2ebe;
+    border-radius: 10px;
+    width:146px;
+    height: 25px;
+}
+
+.sonoran:hover {
+    transform: scale(1.1);
+    cursor: pointer;
+}
+
+
+.website {
+    margin-top: -25px;
+    margin-left: 367px;
+    background-color: #2e2e2ebe;
+    border-radius: 10px;
+    width:115px;
+    height: 25px;
+}
+
+.website:hover {
+    transform: scale(1.1);
+    cursor: pointer;
+}
+
+h1{
+    font-size: 15px;
+    text-align: center;
+}
+
+h2{
+    margin-top: 10px;
+    font-size: 38;
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    padding-left: 0px;
+    background-color: rgba(51, 51, 51, 0.712); 
+    padding-top: 1px;
+    font-size: 14px;
+   
+}
+
+h4{
+    text-align: center;
+    padding-top: 12px;
+    font-size: 14;
+}
+
+h5{
+    text-align: center;
+    font-size: 13;
+    padding-left: 0px;
+    background-color: #6e6e6e04;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h6{
+    text-align: center;
+    font-size: 13;
+    margin-left: 6px;
+}
+
+
+
+
+
+
